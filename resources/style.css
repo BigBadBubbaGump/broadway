@@ -1,0 +1,47 @@
+* {
+  font-family: helvetica,"Arial black", sans-serif;
+  text-align: center;
+}
+
+
+a {
+  font-size: 18px;
+}
+
+ul {
+  list-style: none;
+
+}
+
+p {
+  font-size: 14px;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 11px;
+
+}
+
+.white {
+  color: white;
+}
+
+.bg {
+  background-color: dimgray;
+}
