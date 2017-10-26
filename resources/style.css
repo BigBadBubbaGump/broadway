@@ -1,11 +1,15 @@
 * {
   font-family: helvetica,"Arial black", sans-serif;
+
+}
+body {
   text-align: center;
 }
 
 
 a {
   font-size: 18px;
+
 }
 
 ul {
@@ -20,7 +24,6 @@ p {
 h1{
   font-size: 70px;
   font-weight: bold;
-
 }
 
 h2 {
@@ -33,15 +36,23 @@ h3 {
   font-weight: bold;
 }
 
-h4 {
+.copyright {
   font-size: 11px;
-
+  text-align: left;
 }
 
 .white {
   color: white;
 }
 
+
 .bg {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-size: "100%";
+
+}
+
+
+.bg-dimgray {
   background-color: dimgray;
 }
